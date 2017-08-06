@@ -6,7 +6,8 @@
     "children": [
         "9128ac1e-8ceb-4755-a15a-384c1c9fccd6",
         "18e52b8f-dea7-44fe-901e-1385c22a18e5",
-        "e5708f75-d8bf-40b1-bb4d-a9e0d22ac620"
+        "e5708f75-d8bf-40b1-bb4d-a9e0d22ac620",
+        "cf033fcb-4f17-4f76-919f-0f6c4a49d224"
     ],
     "filterType": "GMObject",
     "folderName": "Prop",

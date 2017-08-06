@@ -10,9 +10,6 @@ else if(keyboard_check(vk_right) or keyboard_check(ord("D")))
 	if(!place_meeting(x + move_speed, y, obj_block_black))
 		x += move_speed;
 }
-else
-	image_speed = 0;
-	
 	
 if(mouse_check_button_pressed(mb_left))
 {
